@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{390400AA-2CEE-42AC-9B0C-9E214705B7A2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PensionerDetailAPI/Client.cs">
+    <Files>
+      <File FileName="PensionerDetailAPI/Client.cs" Line="12" Column="69" />
+      <File FileName="PensionerDetailAPI/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PensionerDetail" expanded="True">
+            <Node name="PensionerDetailAPI" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Client.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PensionerDetailAPI PreferredExecutionTarget="/Applications/Brave Browser.app" />
+</Properties>
